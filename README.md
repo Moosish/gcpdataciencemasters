@@ -13,4 +13,3 @@ This is the backend for the SquadSight platform, built using Node.js, Express, a
 1. Install dependencies:
    ```bash
    npm install
-
