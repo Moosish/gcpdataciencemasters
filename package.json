@@ -1,0 +1,16 @@
+{
+  "name": "squadsight-backend",
+  "version": "1.0.0",
+  "description": "Backend API for SquadSight platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^5.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
